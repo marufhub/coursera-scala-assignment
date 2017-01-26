@@ -4,7 +4,7 @@
 		module="coursera-scala-assignment_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20170125114530"
+		publication="20170126152739"
 	>
 		<description>
 		coursera-scala-assignment
@@ -36,5 +36,6 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.1" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.12" rev="3.0.1" conf="test->default(compile)"/>
 		<dependency org="junit" name="junit" rev="4.10" conf="test->default(compile)"/>
+		<dependency org="org.scala-lang.modules" name="scala-parser-combinators_2.12" rev="1.0.4" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

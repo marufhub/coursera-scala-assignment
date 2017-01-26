@@ -19,7 +19,7 @@ name hashing:
 1 items
 0 -> true
 products:
-8 items
+26 items
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/exercise1/Main$.class
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/exercise1/Main.class
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise2/Main.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/exercise2/Main$.class
@@ -28,8 +28,26 @@ products:
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise3/Main.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/exercise3/Main.class
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week2/FunctionalSets$.class
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week2/FunctionalSets.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetData$.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetData.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetReader$.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetReader$ParseTweets$.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetReader.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Cons.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Empty.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/GoogleVsApple$.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/GoogleVsApple.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Main$.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Main$delayedInit$body.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Main.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Nil$.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Nil.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/NonEmpty.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Tweet.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetList.class
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetSet.class
 binary dependencies:
-8 items
+14 items
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> /Users/maruf/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise2/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
@@ -38,6 +56,12 @@ binary dependencies:
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise3/Main.scala -> /Users/maruf/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> /Users/maruf/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> /Users/maruf/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.0.4.jar
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> /Users/maruf/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -47,7 +71,10 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-0 items
+3 items
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -55,7 +82,7 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-8 items
+26 items
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> exercise1.Main
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> exercise1.Main$
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise2/Main.scala -> exercise2.Main
@@ -64,8 +91,26 @@ class names:
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise3/Main.scala -> exercise3.Main$
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> week2.FunctionalSets
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> week2.FunctionalSets$
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> week3.TweetData
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> week3.TweetData$
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> week3.TweetReader
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> week3.TweetReader$
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> week3.TweetReader$ParseTweets$
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.Cons
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.Empty
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.GoogleVsApple
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.GoogleVsApple$
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.Main
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.Main$
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.Main$delayedInit$body
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.Nil
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.Nil$
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.NonEmpty
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.Tweet
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.TweetList
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3.TweetSet
 used names:
-80 items
+233 items
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> +
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> -
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> <init>
@@ -146,8 +191,161 @@ used names:
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> week2
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> y
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> ||
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> <init>
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> AnyRef
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> CNET
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> TechCrunch
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> TweetData
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> amazondeals
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> engadget
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> gadgetlab
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> gizmodo
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> mashable
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> scala
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> week3
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> +
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> ++
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> ->
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> <init>
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> Any
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> AnyRef
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> CNET
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> Empty
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> JSON
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> List
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> Map
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> ParseTweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> Predef
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> Seq
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> String
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> StringBuffer
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> T
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> TechCrunch
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> Tweet
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> TweetData
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> TweetReader
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> TweetSet
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> acc
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> allTweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> amazondeals
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> amazondealsTweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> append
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> apply
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> asInstanceOf
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> augmentString
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> buf
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> canBuildFrom
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> cnetTweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> collection
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> curSets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> engadget
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> engadgetTweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> foldLeft
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> foreach
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> gadgetlab
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> gadgetlabTweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> get
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> getList
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> getTweetData
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> gizmodo
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> gizmodoTweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> head
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> immutable
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> incl
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> isEmpty
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> java
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> json
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> l
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> lang
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> map
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> mashable
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> mashableTweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> package
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> parseFull
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> parsing
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> replaceAll
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> retweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> s
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> scala
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> siteTweetSetMap
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> sites
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> sources
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> tail
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> techCrunchTweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> text
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> toDouble
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> toInt
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> toString
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> toTweetSet
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> tw
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> tweetMap
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> tweetSets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> tweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> tws
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> union
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> unionOfAllTweetSets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> user
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> util
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> week3
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> zip
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> +
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> <
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> <init>
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> ???
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> AnyRef
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> App
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> Boolean
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> Cons
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> Empty
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> Function1
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> GoogleVsApple
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> Int
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> List
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> Main
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> Nil
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> NoSuchElementException
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> NonEmpty
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> Predef
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> String
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> Tweet
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> TweetList
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> TweetReader
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> TweetSet
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> Unit
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> _root_
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> apple
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> apply
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> augmentString
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> collection
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> contains
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> elem
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> f
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> foreach
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> google
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> head
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> immutable
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> incl
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> isEmpty
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> java
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> left
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> println
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> remove
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> retweets
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> right
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> scala
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> tail
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> text
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> trending
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> tw
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> tweet
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> unary_!
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> union
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> user
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> util
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> week3
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> x
 product stamps:
-8 items
+26 items
 /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/exercise1/Main$.class -> lastModified(1485312346000)
 /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/exercise1/Main.class -> lastModified(1485312346000)
 /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/exercise2/Main$.class -> lastModified(1485312346000)
@@ -156,22 +354,45 @@ product stamps:
 /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/exercise3/Main.class -> lastModified(1485312346000)
 /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week2/FunctionalSets$.class -> lastModified(1485312346000)
 /Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week2/FunctionalSets.class -> lastModified(1485312346000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Cons.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Empty.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/GoogleVsApple$.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/GoogleVsApple.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Main$.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Main$delayedInit$body.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Main.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Nil$.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Nil.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/NonEmpty.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/Tweet.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetData$.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetData.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetList.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetReader$.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetReader$ParseTweets$.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetReader.class -> lastModified(1485412066000)
+/Users/maruf/projects/coursera-scala-assignment/target/scala-2.12/classes/week3/TweetSet.class -> lastModified(1485412066000)
 source stamps:
-4 items
+7 items
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> hash(25909a05145ef20c2c0c9ea9a978cd13be3fb526)
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise2/Main.scala -> hash(5c70af6bd1ff799eb41ab9630bf761c856df7cdf)
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise3/Main.scala -> hash(c23a85d598321500d1c6e3a8aacd6900ff8e1d97)
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> hash(ac71c684589a56391da053563ebab28f36a1a0b0)
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> hash(9b0796293ac37ae1dc4805be70009416dad13f83)
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> hash(0eb50704bceb8e8fe249607d4c9cd9aa2a6654c1)
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> hash(6c4c5cbd34f7899409553ce0e1d4f63db2714f86)
 binary stamps:
-2 items
+3 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459498886000)
+/Users/maruf/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.0.4.jar -> lastModified(1477696245000)
 /Users/maruf/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
 class names:
-2 items
+3 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/maruf/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.0.4.jar -> scala.util.parsing.json.JSON$
 /Users/maruf/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.App
 internal apis:
-4 items
+7 items
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCzqSh6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGgp1iF0AAZub3RpZnlzcQB+AAxo/r/pdAAEd2FpdHNxAH4ADF6JX8Z0AA0kYXNJbnN0YW5jZU9mc3EAfgAMmWvLWnQABmVxdWFsc3NxAH4ADN+g6JJ0AAxhc0luc3RhbmNlT2ZzcQB+AAxd11nkdAAMc3luY2hyb25pemVkc3EAfgAMREvEF3QADSRpc0luc3RhbmNlT2ZzcQB+AAwx0id9dAAGcGFzY2Fsc3EAfgAMnKrA+XQACW5vdGlmeUFsbHNxAH4ADE0zyzJ0AAxpc0luc3RhbmNlT2ZzcQB+AAzNbpIzdAACPT1zcQB+AAybyldVdAAFY2xvbmVzcQB+AAw20Lk/dAAETWFpbnNxAH4ADF4yCx90AAh0b1N0cmluZ3NxAH4ADIHhjU50AAIhPXNxAH4ADNARMih0AAhnZXRDbGFzc3NxAH4ADEMyG2p0AAJuZXNxAH4ADLtLmhB0AAJlcXNxAH4ADHgSCQR0AAIjI3NxAH4ADMtltWl0AAhmaW5hbGl6ZXNxAH4ADK5KeGJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5leGVyY2lzZTEuTWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFp4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFkAcHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGJzcQB+AFkAcHNxAH4AXnVxAH4APAAAAABzcQB+AFkAcHNxAH4AXnVxAH4APAAAAABzcQB+AFkAcHNxAH4AXnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJZXhlcmNpc2Uxc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZ04OLW3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEkvVXNlcnMvbWFydWYvcHJvamVjdHMvY291cnNlcmEtc2NhbGEtYXNzaWdubWVudC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUJZCaBRRe8gwsDJ6pqXjNE74/tSY=
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise2/Main.scala -> 
@@ -180,10 +401,16 @@ rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhf
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHByQMRDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGgp1iF0AAZub3RpZnlzcQB+AAxo/r/pdAAEd2FpdHNxAH4ADF6JX8Z0AA0kYXNJbnN0YW5jZU9mc3EAfgAMmWvLWnQABmVxdWFsc3NxAH4ADN+g6JJ0AAxhc0luc3RhbmNlT2ZzcQB+AAwlmDh2dAAOZXhlY3V0aW9uU3RhcnRzcQB+AAxd11nkdAAMc3luY2hyb25pemVkc3EAfgAMREvEF3QADSRpc0luc3RhbmNlT2ZzcQB+AAxMzNrhdAAEbWFpbnNxAH4ADJyqwPl0AAlub3RpZnlBbGxzcQB+AAxNM8sydAAMaXNJbnN0YW5jZU9mc3EAfgAMzW6SM3QAAj09c3EAfgAMm8pXVXQABWNsb25lc3EAfgAM68KoWXQABE1haW5zcQB+AAxeMgsfdAAIdG9TdHJpbmdzcQB+AAz8LFT6dAAEYXJnc3NxAH4ADIHhjU50AAIhPXNxAH4ADNARMih0AAhnZXRDbGFzc3NxAH4ADIRTqVl0AAtjb3VudENoYW5nZXNxAH4ADEMyG2p0AAJuZXNxAH4ADLtLmhB0AAJlcXNxAH4ADCggVE10AAtkZWxheWVkSW5pdHNxAH4ADHgSCQR0AAIjI3NxAH4ADMtltWl0AAhmaW5hbGl6ZXNxAH4ADK5KeGJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5leGVyY2lzZTMuTWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGR4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGMAcHNxAH4AaHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGxzcQB+AGMAcHNxAH4AaHVxAH4ARAAAAABzcQB+AGMAcHNxAH4AaHVxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AeXhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBrdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJNzcQB+AFYAcQB+AB91cQB+AFkAAAAAc3EAfgCGdAAEVW5pdHEAfgCMdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AeXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWlucQB+AC1zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIdbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGtzcQB+AIZ0AAVBcnJheXEAfgCMdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIZ0AAZTdHJpbmdzcQB+AIpzcQB+AI11cQB+AJAAAAADc3EAfgCSdAAEamF2YXNxAH4AknQABGxhbmdxAH4Al3NxAH4AYwBwc3EAfgBodXEAfgCuAAAABHNxAH4AhnQAA0FwcHEAfgCMc3EAfgCGdAALRGVsYXllZEluaXRxAH4AjHNxAH4AhnQABk9iamVjdHEAfgCyc3EAfgCGdAADQW55cQB+AIx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlleGVyY2lzZTNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVnTg4tbdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASS9Vc2Vycy9tYXJ1Zi9wcm9qZWN0cy9jb3Vyc2VyYS1zY2FsYS1hc3NpZ25tZW50L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTCOoXVmDIVANHG46iqzWkA/44dlw==
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBMWGJVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAInNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMLhMZ90AAZub3RpZnlzcQB+AAyysfEBdAADU2V0c3EAfgAMKdd2n3QABHdhaXRzcQB+AAwDcwr2dAANJGFzSW5zdGFuY2VPZnNxAH4ADLCaeXJ0AAV1bmlvbnNxAH4ADPo6hrd0AAlpbnRlcnNlY3RzcQB+AAztJYiVdAAMc2luZ2xldG9uU2V0c3EAfgAMDBlM1HQAA21hcHNxAH4ADMZVy4d0AAZlcXVhbHNzcQB+AAzQR7xDdAAMYXNJbnN0YW5jZU9mc3EAfgAM8Xp0D3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMaDxNEHQADHN5bmNocm9uaXplZHNxAH4ADFhdtzN0AA0kaXNJbnN0YW5jZU9mc3EAfgAM+ZzUH3QABmZvcmFsbHNxAH4ADDIUxFF0AARtYWluc3EAfgAMpa3KAXQACW5vdGlmeUFsbHNxAH4ADBQwuVd0AAxpc0luc3RhbmNlT2ZzcQB+AAwyPVfZdAAGZmlsdGVyc3EAfgAMgShWiHQABGRpZmZzcQB+AAypjKDDdAACPT1zcQB+AAwmzQprdAAFY2xvbmVzcQB+AAyLLc/YdAAORnVuY3Rpb25hbFNldHNzcQB+AAzVFM/9dAAGZXhpc3Rzc3EAfgAMHeBI1nQACHRvU3RyaW5nc3EAfgAMdLzOL3QABGFyZ3NzcQB+AAxsJhQLdAACIT1zcQB+AAxBVXe/dAAIZ2V0Q2xhc3NzcQB+AAw0Uf+fdAAIY29udGFpbnNzcQB+AAy5h1OcdAACbmVzcQB+AAwTmJA8dAACZXFzcQB+AAwszveQdAALZGVsYXllZEluaXRzcQB+AAxR9W7OdAACIyNzcQB+AAwhg7GrdAAIZmluYWxpemVzcQB+AAw4sJP4dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAUd2VlazIuRnVuY3Rpb25hbFNldHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB2eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB1AHBzcQB+AHpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AW0wACWluaGVyaXRlZHEAfgBbTAAHcGFyZW50c3EAfgBbeHEAfgB+c3EAfgB1AHBzcQB+AHp1cQB+AFYAAAAAc3EAfgB1AHBzcQB+AHp1cQB+AFYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFxxAH4AZXVxAH4AZgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AIt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AfXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB9c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgClc3EAfgBoAHEAfgArdXEAfgBrAAAAAHNxAH4AmHQABFVuaXRxAH4AnnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AIt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AG50AAVQbGFpbnEAfgA/c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCZWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB9c3EAfgCYdAAFQXJyYXlxAH4AnnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCYdAAGU3RyaW5nc3EAfgCcc3EAfgCfdXEAfgCiAAAAA3NxAH4ApHQABGphdmFzcQB+AKR0AARsYW5ncQB+AKlzcQB+AHUAcHNxAH4AenVxAH4AwAAAAARzcQB+AJh0AANBcHBxAH4AnnNxAH4AmHQAC0RlbGF5ZWRJbml0cQB+AJ5zcQB+AJh0AAZPYmplY3RxAH4AxHNxAH4AmHQAA0FueXEAfgCedXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFd2VlazJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVnTg4tbdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASS9Vc2Vycy9tYXJ1Zi9wcm9qZWN0cy9jb3Vyc2VyYS1zY2FsYS1hc3NpZ25tZW50L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSsccaEWJpWOR2gU1Y+urKPNqGgsA==
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDEuheNAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ/Of3B0AAZub3RpZnlzcQB+AAxNBqZGdAALYW1hem9uZGVhbHNzcQB+AAyR/OGIdAAEQ05FVHNxAH4ADBvGuip0AAdnaXptb2Rvc3EAfgAM+K7JB3QABHdhaXRzcQB+AAyN+n4CdAANJGFzSW5zdGFuY2VPZnNxAH4ADMpduat0AAhtYXNoYWJsZXNxAH4ADJ0IHFZ0AAlnYWRnZXRsYWJzcQB+AAx3Rp+0dAAGZXF1YWxzc3EAfgAMNE99EHQADGFzSW5zdGFuY2VPZnNxAH4ADDEX/Up0AAxzeW5jaHJvbml6ZWRzcQB+AAzXfFe8dAAIZW5nYWRnZXRzcQB+AAxYXH4adAAJVHdlZXREYXRhc3EAfgAMraN81HQADSRpc0luc3RhbmNlT2ZzcQB+AAxQ2tgydAAJbm90aWZ5QWxsc3EAfgAMjDewjHQADGlzSW5zdGFuY2VPZnNxAH4ADCbMZZx0AAI9PXNxAH4ADFg2bAZ0AAVjbG9uZXNxAH4ADOHOADZ0AAh0b1N0cmluZ3NxAH4ADJ90+qt0AAIhPXNxAH4ADMq7N/p0AAhnZXRDbGFzc3NxAH4ADDD9lcJ0AAJuZXNxAH4ADFxiJGB0AApUZWNoQ3J1bmNoc3EAfgAMLNXnQ3QAAmVxc3EAfgAMYDIyC3QAAiMjc3EAfgAMDVIPFnQACGZpbmFsaXplc3EAfgAMxM7wvXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD3dlZWszLlR3ZWV0RGF0YXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGUAcHNxAH4AanNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBNTAAJaW5oZXJpdGVkcQB+AE1MAAdwYXJlbnRzcQB+AE14cQB+AG5zcQB+AGUAcHNxAH4AanVxAH4ASAAAAABzcQB+AGUAcHNxAH4AanVxAH4ASAAAAABzcQB+AGUAcHNxAH4AanVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AinQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ai3NxAH4AfnQAA0FueXNxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIp0AAVzY2FsYXEAfgCRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFd2VlazNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVnZdUtKdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASS9Vc2Vycy9tYXJ1Zi9wcm9qZWN0cy9jb3Vyc2VyYS1zY2FsYS1hc3NpZ25tZW50L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSbB5YpOsN64dxIBb5wAJQW2tE/gw==
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAVp7O5AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCTlNmF0AAZub3RpZnlzcQB+AAyFp4AedAAOZW5nYWRnZXRUd2VldHNzcQB+AAwQr8yYdAAEd2FpdHNxAH4ADBZf9R90AA5tYXNoYWJsZVR3ZWV0c3NxAH4ADOje0q10AAtUd2VldFJlYWRlcnNxAH4ADFIUnAN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMansGMHQAC1BhcnNlVHdlZXRzc3EAfgAMYOxOh3QABmVxdWFsc3NxAH4ADITI7vB0AA9zaXRlVHdlZXRTZXRNYXBzcQB+AAy4Q/aydAAMYXNJbnN0YW5jZU9mc3EAfgAMRei+SXQADHN5bmNocm9uaXplZHNxAH4ADHPDo3Z0AAlnZXRUd2VldHNzcQB+AAxp6/2QdAAIdHdlZXRNYXBzcQB+AAwyQDGBdAANJGlzSW5zdGFuY2VPZnNxAH4ADAS1Msp0AAZnZXRNYXBzcQB+AAzSKxNddAAJbm90aWZ5QWxsc3EAfgAMLdUVuHQADGlzSW5zdGFuY2VPZnNxAH4ADNfarJV0AApjbmV0VHdlZXRzc3EAfgAM7qElxXQAEWFtYXpvbmRlYWxzVHdlZXRzc3EAfgAMovRsdnQACWFsbFR3ZWV0c3NxAH4ADE783Td0AA1naXptb2RvVHdlZXRzc3EAfgAMCWl3unQAE3VuaW9uT2ZBbGxUd2VldFNldHNzcQB+AAwmc0aIdAAMZ2V0VHdlZXREYXRhc3EAfgAM0nwunHQAEHRlY2hDcnVuY2hUd2VldHNzcQB+AAxdGyhSdAAKdG9Ud2VldFNldHNxAH4ADCf0uLV0AAI9PXNxAH4ADKnL0vx0AAVjbG9uZXNxAH4ADDGt5ZB0AA9nYWRnZXRsYWJUd2VldHNzcQB+AAzu2an1dAAHZ2V0TGlzdHNxAH4ADF6Unfd0AAh0b1N0cmluZ3NxAH4ADIUl4FJ0AAIhPXNxAH4ADAvZqu90AAhnZXRDbGFzc3NxAH4ADPY49Fh0AAVzaXRlc3NxAH4ADNXpVWZ0AA11bnBhcnNlVG9EYXRhc3EAfgAM/mFqOnQAAm5lc3EAfgAMDzV1jnQACXR3ZWV0U2V0c3NxAH4ADEvKsx50AAdzb3VyY2Vzc3EAfgAMIY1TY3QAAmVxc3EAfgAMR2gZS3QAAiMjc3EAfgAMMV0KBHQACGZpbmFsaXplc3EAfgAMXDdWXnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AaXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEXdlZWszLlR3ZWV0UmVhZGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Agnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AgQBwc3EAfgCGc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGlMAAlpbmhlcml0ZWRxAH4AaUwAB3BhcmVudHNxAH4AaXhxAH4AinNxAH4AgQBwc3EAfgCGdXEAfgBkAAAAAHNxAH4AgQBwc3EAfgCGdXEAfgBkAAAAAHNxAH4AgQBwc3EAfgCGdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCJdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCJc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCmdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCnc3EAfgCadAADQW55c3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnQABXNjYWxhcQB+AK11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV3ZWVrM3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWdl1S0p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABJL1VzZXJzL21hcnVmL3Byb2plY3RzL2NvdXJzZXJhLXNjYWxhLWFzc2lnbm1lbnQvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFA61BwS8646P4klgfUyc2aoqZlTB
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAw6xs4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIpO78h0AAZub3RpZnlzcQB+AAwHe0e0dAATZGVzY2VuZGluZ0J5UmV0d2VldHNxAH4ADOlAg/J0AA1Hb29nbGVWc0FwcGxlc3EAfgAMCclYrXQAA05pbHNxAH4ADFw8ITJ0AAR3YWl0c3EAfgAMnksPd3QADSRhc0luc3RhbmNlT2ZzcQB+AAyzyR+ldAAFdW5pb25zcQB+AAyUWt/sdAAGZXF1YWxzc3EAfgAM0P2j7nQACWZpbHRlckFjY3NxAH4ADO0awmB0AARoZWFkc3EAfgAMiMvPIXQADGFzSW5zdGFuY2VPZnNxAH4ADB9d37d0AA5leGVjdXRpb25TdGFydHNxAH4ADE3CHMp0AARpbmNsc3EAfgAMv9QFx3QADHN5bmNocm9uaXplZHNxAH4ADEq/UU50AA0kaXNJbnN0YW5jZU9mc3EAfgAMzAnkoXQACVR3ZWV0TGlzdHNxAH4ADLKeUXx0AAZnb29nbGVzcQB+AAzsWPo3dAAEdGV4dHNxAH4ADNDvuXZ0AA1tb3N0UmV0d2VldGVkc3EAfgAM4dWfIXQABHRhaWxzcQB+AAx/hPCIdAAEbWFpbnNxAH4ADICmL0J0AAhyZXR3ZWV0c3NxAH4ADHirdDF0AARDb25zc3EAfgAMy1JbIHQACW5vdGlmeUFsbHNxAH4ADP5aVqt0AAxpc0luc3RhbmNlT2ZzcQB+AAzxPR38dAAGZmlsdGVyc3EAfgAM3b/cLXQABjxpbml0PnNxAH4ADAUceel0AAZyZW1vdmVzcQB+AAwTulAudAAFRW1wdHlzcQB+AAy8nnSYdAACPT1zcQB+AAwhdRUJdAAFY2xvbmVzcQB+AAzw5PM3dAAHZm9yZWFjaHNxAH4ADPdvmkd0AAVUd2VldHNxAH4ADKW82Md0AAYkaW5pdCRzcQB+AAxqC2JgdAAIVHdlZXRTZXRzcQB+AAwegaK5dAAETWFpbnNxAH4ADACfSgV0AAh0b1N0cmluZ3NxAH4ADGr3Tt10AARhcmdzc3EAfgAMWW452nQABWFwcGxlc3EAfgAMLyxGF3QAAiE9c3EAfgAMBbqWX3QACGdldENsYXNzc3EAfgAMph5/AnQADGdvb2dsZVR3ZWV0c3NxAH4ADAJkq0R0AAhjb250YWluc3NxAH4ADOm5cfl0AAdpc0VtcHR5c3EAfgAM+FhhTnQAAm5lc3EAfgAMpLkJqnQACHRyZW5kaW5nc3EAfgAMYLWNvXQABHVzZXJzcQB+AAzcG+9jdAACZXFzcQB+AAx+Cw09dAAITm9uRW1wdHlzcQB+AAxshAOIdAALZGVsYXllZEluaXRzcQB+AAyI4I4BdAACIyNzcQB+AAx0Pi7ydAALYXBwbGVUd2VldHNzcQB+AAxBVVTBdAAIZmluYWxpemVzcQB+AAwxsQSBdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAJc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAALd2VlazMuVHdlZXR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AJx4cHNyABN4c2J0aS5hcGkuRW1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gb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3EAfgC0dAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcQB+ALhzcQB+ALt1cQB+AL4AAAACc3EAfgDAcQB+AM5xAH4Ax3NxAH4AkABxAH4AN3VxAH4AkwAAAABzcQB+ALR0AARVbml0cQB+Aet1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgHceHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCWdAAFUGxhaW5xAH4AWXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AtVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ao3NxAH4AtHQABUFycmF5cQB+Aet1cQB+ALIAAAABc3EAfgC0dAAGU3RyaW5nc3EAfgC4c3EAfgC7dXEAfgC+AAAAA3NxAH4AwHEAfgDDc3EAfgDAcQB+AMVxAH4Ax3NxAH4AmwBwc3EAfgCgdXEAfgCyAAAABHNxAH4AtHQAA0FwcHEAfgHrc3EAfgC0dAALRGVsYXllZEluaXRxAH4B63NxAH4AtHEAfgC3cQB+AghzcQB+ALRxAH4AyXEAfgHrdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFd2VlazNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVnZdUtKdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASS9Vc2Vycy9tYXJ1Zi9wcm9qZWN0cy9jb3Vyc2VyYS1zY2FsYS1hc3NpZ25tZW50L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRsTFy9NPeJlAlVPODh1PY9snFPhg==
 external apis:
 0 items
 source infos:
-4 items
+7 items
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise1/Main.scala -> 
 AAAAAAAAAAA=
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/exercise2/Main.scala -> 
@@ -192,6 +419,13 @@ AAAAAAAAAAA=
 AAAAAAAAAAA=
 /Users/maruf/projects/coursera-scala-assignment/src/main/scala/week2/FunctionalSets.scala -> 
 AAAAAAAAAAA=
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetData.scala -> 
+AAAAAAAAAAA=
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetReader.scala -> 
+AAAAAAAAAAA=
+/Users/maruf/projects/coursera-scala-assignment/src/main/scala/week3/TweetSet.scala -> 
+AAAAAAAAAAA=
 compilations:
-1 items
+2 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWdODi1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9Vc2Vycy9tYXJ1Zi9wcm9qZWN0cy9jb3Vyc2VyYS1zY2FsYS1hc3NpZ25tZW50L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWdl1S0p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9Vc2Vycy9tYXJ1Zi9wcm9qZWN0cy9jb3Vyc2VyYS1zY2FsYS1hc3NpZ25tZW50L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

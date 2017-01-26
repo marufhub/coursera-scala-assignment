@@ -9,13 +9,21 @@
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.12.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39a3e48c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17b8615a
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.12.1
 [debug] 	found org.scala-lang#scala-library;2.12.1 in sbt-chain
 [debug] 	[2.12.1] org.scala-lang#scala-library;2.12.1
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1e8ce620
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4
+[debug] 	found org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 in sbt-chain
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->master]
 [debug] resolving dependencies for configuration 'runtime'
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [runtime]
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [compile]
@@ -23,10 +31,18 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->master]
 [debug] resolving dependencies for configuration 'test'
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [test]
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [runtime]
@@ -35,17 +51,29 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalatest#scalatest_2.12;3.0.1 [test->default(compile)]
 [info] Resolving org.scalatest#scalatest_2.12;3.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bfe9bfa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@9417ca9
 [debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.12;3.0.1
 [debug] 	found org.scalatest#scalatest_2.12;3.0.1 in sbt-chain
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalatest#scalatest_2.12;3.0.1 [test->runtime]
@@ -53,7 +81,7 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalatest#scalatest_2.12;3.0.1 [test->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalactic#scalactic_2.12;3.0.1 [test->default(compile)]
 [info] Resolving org.scalactic#scalactic_2.12;3.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b83757f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@776e0caa
 [debug] sbt-chain: module revision found in cache: org.scalactic#scalactic_2.12;3.0.1
 [debug] 	found org.scalactic#scalactic_2.12;3.0.1 in sbt-chain
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalactic#scalactic_2.12;3.0.1 [test->runtime]
@@ -61,7 +89,7 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalactic#scalactic_2.12;3.0.1 [test->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-reflect;2.12.0 [test->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.12.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66507c6c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@45230db
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.12.0
 [debug] 	found org.scala-lang#scala-reflect;2.12.0 in sbt-chain
 [debug] 	[2.12.0] org.scala-lang#scala-reflect;2.12.0
@@ -70,23 +98,15 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-reflect;2.12.0 [test->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [test->default(compile)]
 [info] Resolving org.scala-lang.modules#scala-xml_2.12;1.0.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@188a82dc
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2e68ef33
 [debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.12;1.0.5
 [debug] 	found org.scala-lang.modules#scala-xml_2.12;1.0.5 in sbt-chain
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [test->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [test->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [test->master]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->default(compile)]
-[info] Resolving org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3ea94c62
-[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4
-[debug] 	found org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 in sbt-chain
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->runtime]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->compile]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->junit#junit;4.10 [test->default(compile)]
 [info] Resolving junit#junit;4.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30148864
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@187a5712
 [debug] sbt-chain: module revision found in cache: junit#junit;4.10
 [debug] 	found junit#junit;4.10 in sbt-chain
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->junit#junit;4.10 [test->runtime]
@@ -94,7 +114,7 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->junit#junit;4.10 [test->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.hamcrest#hamcrest-core;1.1 [test->default(compile)]
 [info] Resolving org.hamcrest#hamcrest-core;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1028a3b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7d854eda
 [debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.1
 [debug] 	found org.hamcrest#hamcrest-core;1.1 in sbt-chain
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.hamcrest#hamcrest-core;1.1 [test->runtime]
@@ -111,12 +131,20 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->master]
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [optional]
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [provided]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile-internal->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile-internal->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile-internal->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile-internal->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile-internal->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile-internal->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile-internal->master]
 [debug] resolving dependencies for configuration 'runtime-internal'
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [runtime-internal]
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [runtime]
@@ -125,15 +153,27 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->master]
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [optional]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime-internal->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime-internal->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime-internal->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime-internal->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime-internal->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime-internal->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime-internal->master]
 [debug] resolving dependencies for configuration 'test-internal'
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [test-internal]
 [debug] == resolving dependencies for default#coursera-scala-assignment$sources_2.12;1.0 [test]
@@ -143,14 +183,26 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [compile->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [runtime->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [runtime->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalatest#scalatest_2.12;3.0.1 [test->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalatest#scalatest_2.12;3.0.1 [test->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalatest#scalatest_2.12;3.0.1 [test->compile]
@@ -167,10 +219,6 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [test->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [test->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [test->master]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->default(compile)]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->runtime]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->compile]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->junit#junit;4.10 [test->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->junit#junit;4.10 [test->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->junit#junit;4.10 [test->compile]
@@ -185,6 +233,10 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test-internal->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test-internal->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang#scala-library;2.12.1 [test-internal->master]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test-internal->default(compile)]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test-internal->runtime]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test-internal->compile]
+[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test-internal->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalatest#scalatest_2.12;3.0.1 [test-internal->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalatest#scalatest_2.12;3.0.1 [test-internal->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scalatest#scalatest_2.12;3.0.1 [test-internal->compile]
@@ -201,10 +253,6 @@
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [test-internal->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [test-internal->compile]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-xml_2.12;1.0.5 [test-internal->master]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test-internal->default(compile)]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test-internal->runtime]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test-internal->compile]
-[debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4 [test-internal->master]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->junit#junit;4.10 [test-internal->default(compile)]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->junit#junit;4.10 [test-internal->runtime]
 [debug] == resolving dependencies default#coursera-scala-assignment$sources_2.12;1.0->junit#junit;4.10 [test-internal->compile]
@@ -264,6 +312,8 @@
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.1!scala-library.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.1!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4!scala-parser-combinators_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4!scala-parser-combinators_2.12.jar
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.1!scalatest_2.12.jar
 [debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.1!scalatest_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.1!scalactic_2.12.jar(src)
@@ -272,8 +322,6 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.0!scala-reflect.jar
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.5!scala-xml_2.12.jar
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.5!scala-xml_2.12.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4!scala-parser-combinators_2.12.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4!scala-parser-combinators_2.12.jar
 [debug] 	[NOT REQUIRED] junit#junit;4.10!junit.jar
 [debug] 	[NOT REQUIRED] junit#junit;4.10!junit.jar(src)
 [debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.1!hamcrest-core.jar(src)
@@ -282,18 +330,18 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.1!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.14.1!jline.jar(src)
-[debug] :: resolution report :: resolve 614ms :: artifacts dl 539ms
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 compile produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-compile.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 runtime produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-runtime.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 test produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-test.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 provided produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-provided.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 optional produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-optional.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 compile-internal produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-compile-internal.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 runtime-internal produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-runtime-internal.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 test-internal produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-test-internal.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 plugin produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-plugin.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 sources produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-sources.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 docs produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-docs.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 pom produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-pom.xml
-[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 scala-tool produced in /Users/maruf/IdeaProjects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-scala-tool.xml
-[debug] 	resolve done (614ms resolve - 539ms download)
+[debug] :: resolution report :: resolve 71ms :: artifacts dl 17ms
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 compile produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-compile.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 runtime produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-runtime.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 test produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-test.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 provided produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-provided.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 optional produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-optional.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 compile-internal produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-compile-internal.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 runtime-internal produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-runtime-internal.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 test-internal produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-test-internal.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 plugin produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-plugin.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 sources produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-sources.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 docs produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-docs.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 pom produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-pom.xml
+[debug] 	report for default#coursera-scala-assignment$sources_2.12;1.0 scala-tool produced in /Users/maruf/projects/coursera-scala-assignment/target/resolution-cache/reports/default-coursera-scala-assignment$sources_2.12-scala-tool.xml
+[debug] 	resolve done (71ms resolve - 17ms download)
