@@ -13,9 +13,7 @@ object Main extends App{
         else
           counter(money - coins.head, coins, count) + counter(money, coins.tail, count)
       }
-
     }
     counter(money, coins, 0)
   }
-
 }

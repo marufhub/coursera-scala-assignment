@@ -6,7 +6,6 @@ package exercise2
 object Main extends App{
 
   /**
-    *
     * @param chars
     * @return
     */
@@ -19,9 +18,6 @@ object Main extends App{
         else parenthesisBalancer(chars.tail, sum)
       }
     }
-
     parenthesisBalancer(chars, 0)
-
   }
-
 }
