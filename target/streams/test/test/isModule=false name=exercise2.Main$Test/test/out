@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mMain$Test:[0m[0m
-[0m[[0minfo[0m] [0m[32m- balance((if (zero? x) max (/ 1 x))) = true [0m[0m
-[0m[[0minfo[0m] [0m[32m- balance(I told him (that it’s not (yet) done). (But he wasn’t listening)) = true [0m[0m
-[0m[[0minfo[0m] [0m[32m- balance(:-)) = false [0m[0m
-[0m[[0minfo[0m] [0m[32m- balance(())() = false [0m[0m
